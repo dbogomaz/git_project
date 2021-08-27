@@ -4,5 +4,5 @@ using namespace std;
 
 int main()
 {
-    cout << "File_1(1)" << endl;
+    cout << "File_2(1)" << endl;
 }
